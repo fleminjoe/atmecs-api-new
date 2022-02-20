@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atmecs-api-new/static/css/main.6ee5c82d.css",
+    "main.js": "/atmecs-api-new/static/js/main.54b70b1c.js",
+    "index.html": "/atmecs-api-new/index.html",
+    "main.6ee5c82d.css.map": "/atmecs-api-new/static/css/main.6ee5c82d.css.map",
+    "main.54b70b1c.js.map": "/atmecs-api-new/static/js/main.54b70b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee5c82d.css",
+    "static/js/main.54b70b1c.js"
+  ]
+}
