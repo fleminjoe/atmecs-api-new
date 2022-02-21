@@ -21,6 +21,7 @@ function App() {
   const onSubmit = (e)=>{
     e.preventDefault();
     getRecipes();
+    console.log('flemin');
   }
 
   return (
